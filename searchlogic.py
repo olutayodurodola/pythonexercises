@@ -7,6 +7,8 @@ for i in range(5):
         print(f"Language {i + 1}: {languages[i]} is the best programming language!");
     print(f"Language {i + 1}: {languages[i]}");
 
+
+#Searching the entire list.
 search_found_count = 0;
 search_value = input("Enter a programming language to search for: ");
 for language in languages:
