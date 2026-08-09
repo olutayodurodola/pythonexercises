@@ -38,16 +38,28 @@ books = [("Are you my mother?", "P.D. Eastman", 24),
          ("The Snowy Day", "Ezra Jack Keats", 32)];
 
 c.executemany("INSERT INTO books VALUES (?, ?, ?)", books);
-
 conn.commit();
 
 c.execute("SELECT * FROM books");
 rows = c.fetchall();
 print("All books in the database after inserting multiple records:");
-print(rows);
+#print(rows);
 
 file = open("input.txt", 'w')
 for row in rows:
     print(row);
     file.write(row[0] + "\t" + row[1] + "\t" + str(row[2]) + "\n");
 file.close()
+
+
+c.execute('DELETE FROM books WHERE title = "The Very Hungry Caterpillar"');
+c.execute('DELETE FROM books WHERE title = "Are you my mother?"');
+c.execute('DELETE FROM books WHERE title = "Where the Wild Things Are"');
+conn.commit();
+
+c.execute("SELECT * FROM books");
+rows = c.fetchall();
+print("All books in the database after deleting a record:");
+print("===================================================");
+for row in rows:    
+    print(row[0] + "\t" + row[1] + "\t" + str(row[2]));
