@@ -1,0 +1,3 @@
+Visual c++	Andrew Young	65
+It contains some sample text.	1009
+This is the third line of the file.	560
