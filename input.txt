@@ -1,3 +1,90 @@
-Visual c++	Andrew Young	65
-It contains some sample text.	1009
-This is the third line of the file.	560
+The Great Gatsby	F. Scott Fitzgerald	180
+To Kill a Mockingbird	Harper Lee	281
+1984	George Orwell	328
+Pride and Prejudice	Jane Austen	432
+The Catcher in the Rye	J.D. Salinger	277
+The Hobbit	J.R.R. Tolkien	310
+The Lord of the Rings	J.R.R. Tolkien	1178
+The Chronicles of Narnia	C.S. Lewis	767
+Are you my mother?	P.D. Eastman	24
+The Very Hungry Caterpillar	Eric Carle	32
+Goodnight Moon	Margaret Wise Brown	32
+The Cat in the Hat	Dr. Seuss	61
+Green Eggs and Ham	Dr. Seuss	62
+Where the Wild Things Are	Maurice Sendak	48
+The Giving Tree	Shel Silverstein	64
+Corduroy	Don Freeman	32
+The Polar Express	Chris Van Allsburg	32
+The Snowy Day	Ezra Jack Keats	32
+The Great Gatsby	F. Scott Fitzgerald	180
+To Kill a Mockingbird	Harper Lee	281
+1984	George Orwell	328
+Pride and Prejudice	Jane Austen	432
+The Catcher in the Rye	J.D. Salinger	277
+The Hobbit	J.R.R. Tolkien	310
+The Lord of the Rings	J.R.R. Tolkien	1178
+The Chronicles of Narnia	C.S. Lewis	767
+Are you my mother?	P.D. Eastman	24
+The Very Hungry Caterpillar	Eric Carle	32
+Goodnight Moon	Margaret Wise Brown	32
+The Cat in the Hat	Dr. Seuss	61
+Green Eggs and Ham	Dr. Seuss	62
+Where the Wild Things Are	Maurice Sendak	48
+The Giving Tree	Shel Silverstein	64
+Corduroy	Don Freeman	32
+The Polar Express	Chris Van Allsburg	32
+The Snowy Day	Ezra Jack Keats	32
+The Great Gatsby	F. Scott Fitzgerald	180
+To Kill a Mockingbird	Harper Lee	281
+1984	George Orwell	328
+Pride and Prejudice	Jane Austen	432
+The Catcher in the Rye	J.D. Salinger	277
+The Hobbit	J.R.R. Tolkien	310
+The Lord of the Rings	J.R.R. Tolkien	1178
+The Chronicles of Narnia	C.S. Lewis	767
+Are you my mother?	P.D. Eastman	24
+The Very Hungry Caterpillar	Eric Carle	32
+Goodnight Moon	Margaret Wise Brown	32
+The Cat in the Hat	Dr. Seuss	61
+Green Eggs and Ham	Dr. Seuss	62
+Where the Wild Things Are	Maurice Sendak	48
+The Giving Tree	Shel Silverstein	64
+Corduroy	Don Freeman	32
+The Polar Express	Chris Van Allsburg	32
+The Snowy Day	Ezra Jack Keats	32
+The Great Gatsby	F. Scott Fitzgerald	180
+To Kill a Mockingbird	Harper Lee	281
+1984	George Orwell	328
+Pride and Prejudice	Jane Austen	432
+The Catcher in the Rye	J.D. Salinger	277
+The Hobbit	J.R.R. Tolkien	310
+The Lord of the Rings	J.R.R. Tolkien	1178
+The Chronicles of Narnia	C.S. Lewis	767
+Are you my mother?	P.D. Eastman	24
+The Very Hungry Caterpillar	Eric Carle	32
+Goodnight Moon	Margaret Wise Brown	32
+The Cat in the Hat	Dr. Seuss	61
+Green Eggs and Ham	Dr. Seuss	62
+Where the Wild Things Are	Maurice Sendak	48
+The Giving Tree	Shel Silverstein	64
+Corduroy	Don Freeman	32
+The Polar Express	Chris Van Allsburg	32
+The Snowy Day	Ezra Jack Keats	32
+The Great Gatsby	F. Scott Fitzgerald	180
+To Kill a Mockingbird	Harper Lee	281
+1984	George Orwell	328
+Pride and Prejudice	Jane Austen	432
+The Catcher in the Rye	J.D. Salinger	277
+The Hobbit	J.R.R. Tolkien	310
+The Lord of the Rings	J.R.R. Tolkien	1178
+The Chronicles of Narnia	C.S. Lewis	767
+Are you my mother?	P.D. Eastman	24
+The Very Hungry Caterpillar	Eric Carle	32
+Goodnight Moon	Margaret Wise Brown	32
+The Cat in the Hat	Dr. Seuss	61
+Green Eggs and Ham	Dr. Seuss	62
+Where the Wild Things Are	Maurice Sendak	48
+The Giving Tree	Shel Silverstein	64
+Corduroy	Don Freeman	32
+The Polar Express	Chris Van Allsburg	32
+The Snowy Day	Ezra Jack Keats	32
